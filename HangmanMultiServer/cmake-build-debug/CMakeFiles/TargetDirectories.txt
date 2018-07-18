@@ -1,0 +1,8 @@
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/multi-server/CMakeFiles/rebuild_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/multi-server/CMakeFiles/edit_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/multi-server/CMakeFiles/multi-server.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/cmake-build-debug/client/CMakeFiles/client.dir

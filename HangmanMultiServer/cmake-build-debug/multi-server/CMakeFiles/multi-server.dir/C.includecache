@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexandremenielle/Documents/4A/C/HangmanMultiServer/multi-server/multi-server.c
+stdio.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netdb.h
+-
+stdio.h
+-
+strings.h
+-
+unistd.h
+-
+stdlib.h
+-
+pthread.h
+-
+fcntl.h
+-
+
